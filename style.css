@@ -16,7 +16,9 @@ h3 {
   font-family: "Playfair Display", Times, serif;
   text-align: center;
 }
-
+.h3{
+  text-align: left;
+}
 /* Header */
 #header {
   display: flex;
